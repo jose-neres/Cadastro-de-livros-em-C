@@ -71,7 +71,7 @@ int main()
             default:
                 printf("Opção inválida. Tente novamente.\n");
             }
-        } while (opcao != 0);
+        } while (opcao != 5);
 
     // chama a função dedicada para liberar a memoria alocada
 
